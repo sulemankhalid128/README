@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Ahmad Aslam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27"></h1>
+<h1 align="center">Hi , I'm Muhammad Suleman Khalid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27"></h1>
 <!-- <img src="https://gpvc.arturio.dev/ahmadaslam1999" alt="Profile views" align='right'/> -->
 &nbsp<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=20&center=true&vCenter=true&width=600&height=100&lines=JavaScript+Engineer;Full-Stack+Web+Developer;Mobile+App+Developer"></a>
