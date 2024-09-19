@@ -4,9 +4,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=20&center=true&vCenter=true&width=600&height=100&lines=JavaScript+Engineer;Full-Stack+Web+Developer;Cloud+Engineer"></a>
 </p>
     <div align=center>
-        <a href="https://www.linkedin.com/in/ahmadaslam/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://www.upwork.com/freelancers/~0196ba1d1cf79c844b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
-        <a href="https://stackoverflow.com/users/13834222/ahmad"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+        <a href="https://www.linkedin.com/in/suleman-khalid-b19808164/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="https://medium.com/@sulemankhalid128"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+</a>
+        <a href="https://stackoverflow.com/users/12416440/suleman-khalid"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+      
     </div>
     
 <h2> / about me / </h2>
