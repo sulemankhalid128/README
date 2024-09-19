@@ -12,7 +12,7 @@
 <h2> / about me / </h2>
   
 - :computer:  full stack JavaScript developer
-- ⭐ currently working on **web-development** and **mobile-app-development**
+- ⭐ currently working on **web-development**  **front-end-development** and **back-end-development**
 - 💀 mostly working on **private repositories**
 - :ocean: i am under the [water](https://www.youtube.com/watch?v=Bu8bH2P37kY)
 
