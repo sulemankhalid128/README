@@ -8,7 +8,6 @@
         <a href="https://medium.com/@sulemankhalid128"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
 </a>
         <a href="https://stackoverflow.com/users/12416440/suleman-khalid"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
-      
     </div>
     
 <h2> / about me / </h2>
