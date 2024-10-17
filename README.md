@@ -12,7 +12,7 @@
     
 <h2> / about me / </h2>
   
-- :computer:  full stack JavaScript developer with over 5 years of experience 
+- :computer:  full stack JavaScript developer with over 6 years of experience 
 - ⭐ currently working on **web-development**, **Specialize in back-end-development** and **front-end-development**
 - 💀 mostly working on **private repositories**
 - :ocean: i am under the [water](https://www.youtube.com/watch?v=Bu8bH2P37kY)
