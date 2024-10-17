@@ -14,6 +14,7 @@
   
 - :computer:  full stack JavaScript developer with over 6 years of experience 
 - ⭐ currently working on **web-development**, **Specialize in back-end-development** and **front-end-development**
+- ☁️ Experienced in cloud engineering, with proficiency in AWS, GCP, and Azure, enabling scalable and efficient cloud-based solutions.
 - 💀 mostly working on **private repositories**
 - :ocean: i am under the [water](https://www.youtube.com/watch?v=Bu8bH2P37kY)
 
